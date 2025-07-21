@@ -10,7 +10,7 @@ This project uses **Support Vector Machine (SVM)** to predict whether a loan sho
 
 ###  Dataset
 
-The dataset used in this project is from <a herf="https://github.com/Akshitachoudhary/Loan_status_prediction_ML/blob/main/loan_training_data.csv">Dataset</a>
+The dataset used in this project is from <a herf="https://github.com/Akshitachoudhary/Loan_status_prediction_ML/blob/main/loan_training_data.csv" >Dataset</a>
 
 ###  Project Workflow
 

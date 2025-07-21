@@ -8,9 +8,9 @@ This project uses **Support Vector Machine (SVM)** to predict whether a loan sho
 
 ---
 
-### 📂 Dataset
+###  Dataset
 
-The dataset used in this project is from [Loan Prediction Practice Problems](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) (via Analytics Vidhya).
+The dataset used in this project is from <a herf="https://github.com/Akshitachoudhary/Loan_status_prediction_ML/blob/main/loan_training_data.csv">/Dataset</a>
 
 ###  Project Workflow
 
